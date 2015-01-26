@@ -21,6 +21,11 @@ app.service('productService', function(){
       type: 'Puma',
       color: 'Green',
       size: 7
+    },
+    {
+      type: 'Puma',
+      color: 'Black',
+      size: 15
     }
   ];
 
